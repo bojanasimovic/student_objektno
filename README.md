@@ -1,2 +1,2 @@
 # student_objektno
-cpp implementation of the student class
+C++ implementation of the student class
